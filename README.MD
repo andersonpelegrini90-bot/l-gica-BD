@@ -129,3 +129,4 @@ Além disso, as queries também demonstram:
 ---
 
 Este projeto faz parte da minha jornada de aprendizado em banco de dados e SQL, e foi desenvolvido seguindo as orientações do lab da DIO para praticar modelagem lógica e implementação em SQL.
+
